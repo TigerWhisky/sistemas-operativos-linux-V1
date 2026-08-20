@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Sistemas Operativos Linux"
+type: software
+authors:
+  - family-names: "Pereira da Silva Pereira da Cunha"
+    given-names: "Domingos Agostinho da Silva"
+version: "1.0.0"
+license: MIT
+repository-code: "https://github.com/TigerWhisky/sistemas-operativos-linux"
